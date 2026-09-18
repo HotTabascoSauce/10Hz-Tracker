@@ -1,0 +1,69 @@
+info: INFO: Symbol LV_I2C defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    H:\project\2.8inch\ESP32\S3test\2.8inch_ESP32-S3_LVGL\components\lvgl_esp32_drivers\lvgl_tft\Kconfig:1001
+    H:\project\2.8inch\ESP32\S3test\2.8inch_ESP32-S3_LVGL\components\lvgl_esp32_drivers\lvgl_touch\Kconfig:485
+info: INFO: Symbol LV_TOUCH_SPI_MISO defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    H:\project\2.8inch\ESP32\S3test\2.8inch_ESP32-S3_LVGL\components\lvgl_esp32_drivers\lvgl_touch\Kconfig:83
+    H:\project\2.8inch\ESP32\S3test\2.8inch_ESP32-S3_LVGL\components\lvgl_esp32_drivers\lvgl_touch\Kconfig:213
+info: INFO: Symbol LV_TOUCH_SPI_MOSI defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    H:\project\2.8inch\ESP32\S3test\2.8inch_ESP32-S3_LVGL\components\lvgl_esp32_drivers\lvgl_touch\Kconfig:92
+    H:\project\2.8inch\ESP32\S3test\2.8inch_ESP32-S3_LVGL\components\lvgl_esp32_drivers\lvgl_touch\Kconfig:224
+info: INFO: Symbol LV_TOUCH_SPI_CLK defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    H:\project\2.8inch\ESP32\S3test\2.8inch_ESP32-S3_LVGL\components\lvgl_esp32_drivers\lvgl_touch\Kconfig:236
+    H:\project\2.8inch\ESP32\S3test\2.8inch_ESP32-S3_LVGL\components\lvgl_esp32_drivers\lvgl_touch\Kconfig:101
+info: INFO: Symbol LV_TOUCH_SPI_CS defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    H:\project\2.8inch\ESP32\S3test\2.8inch_ESP32-S3_LVGL\components\lvgl_esp32_drivers\lvgl_touch\Kconfig:245
+    H:\project\2.8inch\ESP32\S3test\2.8inch_ESP32-S3_LVGL\components\lvgl_esp32_drivers\lvgl_touch\Kconfig:109
+info: INFO: Symbol LV_TOUCH_X_MIN defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    H:\project\2.8inch\ESP32\S3test\2.8inch_ESP32-S3_LVGL\components\lvgl_esp32_drivers\lvgl_touch\Kconfig:376
+    H:\project\2.8inch\ESP32\S3test\2.8inch_ESP32-S3_LVGL\components\lvgl_esp32_drivers\lvgl_touch\Kconfig:257
+    H:\project\2.8inch\ESP32\S3test\2.8inch_ESP32-S3_LVGL\components\lvgl_esp32_drivers\lvgl_touch\Kconfig:336
+    H:\project\2.8inch\ESP32\S3test\2.8inch_ESP32-S3_LVGL\components\lvgl_esp32_drivers\lvgl_touch\Kconfig:129
+info: INFO: Symbol LV_TOUCH_Y_MIN defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    H:\project\2.8inch\ESP32\S3test\2.8inch_ESP32-S3_LVGL\components\lvgl_esp32_drivers\lvgl_touch\Kconfig:382
+    H:\project\2.8inch\ESP32\S3test\2.8inch_ESP32-S3_LVGL\components\lvgl_esp32_drivers\lvgl_touch\Kconfig:135
+    H:\project\2.8inch\ESP32\S3test\2.8inch_ESP32-S3_LVGL\components\lvgl_esp32_drivers\lvgl_touch\Kconfig:262
+    H:\project\2.8inch\ESP32\S3test\2.8inch_ESP32-S3_LVGL\components\lvgl_esp32_drivers\lvgl_touch\Kconfig:341
+info: INFO: Symbol LV_TOUCH_X_MAX defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    H:\project\2.8inch\ESP32\S3test\2.8inch_ESP32-S3_LVGL\components\lvgl_esp32_drivers\lvgl_touch\Kconfig:388
+    H:\project\2.8inch\ESP32\S3test\2.8inch_ESP32-S3_LVGL\components\lvgl_esp32_drivers\lvgl_touch\Kconfig:346
+    H:\project\2.8inch\ESP32\S3test\2.8inch_ESP32-S3_LVGL\components\lvgl_esp32_drivers\lvgl_touch\Kconfig:141
+    H:\project\2.8inch\ESP32\S3test\2.8inch_ESP32-S3_LVGL\components\lvgl_esp32_drivers\lvgl_touch\Kconfig:267
+info: INFO: Symbol LV_TOUCH_Y_MAX defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    H:\project\2.8inch\ESP32\S3test\2.8inch_ESP32-S3_LVGL\components\lvgl_esp32_drivers\lvgl_touch\Kconfig:272
+    H:\project\2.8inch\ESP32\S3test\2.8inch_ESP32-S3_LVGL\components\lvgl_esp32_drivers\lvgl_touch\Kconfig:351
+    H:\project\2.8inch\ESP32\S3test\2.8inch_ESP32-S3_LVGL\components\lvgl_esp32_drivers\lvgl_touch\Kconfig:147
+    H:\project\2.8inch\ESP32\S3test\2.8inch_ESP32-S3_LVGL\components\lvgl_esp32_drivers\lvgl_touch\Kconfig:394
+info: INFO: Symbol LV_TOUCH_XY_SWAP defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    H:\project\2.8inch\ESP32\S3test\2.8inch_ESP32-S3_LVGL\components\lvgl_esp32_drivers\lvgl_touch\Kconfig:153
+    H:\project\2.8inch\ESP32\S3test\2.8inch_ESP32-S3_LVGL\components\lvgl_esp32_drivers\lvgl_touch\Kconfig:356
+    H:\project\2.8inch\ESP32\S3test\2.8inch_ESP32-S3_LVGL\components\lvgl_esp32_drivers\lvgl_touch\Kconfig:400
+    H:\project\2.8inch\ESP32\S3test\2.8inch_ESP32-S3_LVGL\components\lvgl_esp32_drivers\lvgl_touch\Kconfig:277
+info: INFO: Symbol LV_TOUCH_INVERT_X defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    H:\project\2.8inch\ESP32\S3test\2.8inch_ESP32-S3_LVGL\components\lvgl_esp32_drivers\lvgl_touch\Kconfig:282
+    H:\project\2.8inch\ESP32\S3test\2.8inch_ESP32-S3_LVGL\components\lvgl_esp32_drivers\lvgl_touch\Kconfig:405
+    H:\project\2.8inch\ESP32\S3test\2.8inch_ESP32-S3_LVGL\components\lvgl_esp32_drivers\lvgl_touch\Kconfig:158
+    H:\project\2.8inch\ESP32\S3test\2.8inch_ESP32-S3_LVGL\components\lvgl_esp32_drivers\lvgl_touch\Kconfig:361
+info: INFO: Symbol LV_TOUCH_INVERT_Y defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    H:\project\2.8inch\ESP32\S3test\2.8inch_ESP32-S3_LVGL\components\lvgl_esp32_drivers\lvgl_touch\Kconfig:163
+    H:\project\2.8inch\ESP32\S3test\2.8inch_ESP32-S3_LVGL\components\lvgl_esp32_drivers\lvgl_touch\Kconfig:366
+    H:\project\2.8inch\ESP32\S3test\2.8inch_ESP32-S3_LVGL\components\lvgl_esp32_drivers\lvgl_touch\Kconfig:287
+    H:\project\2.8inch\ESP32\S3test\2.8inch_ESP32-S3_LVGL\components\lvgl_esp32_drivers\lvgl_touch\Kconfig:410
+Server running, waiting for requests on stdin...
+Loading config from h:\project\2.8inch\ESP32\S3test\2.8inch_ESP32-S3_LVGL\sdkconfig...
+Saving config to h:\project\2.8inch\ESP32\S3test\2.8inch_ESP32-S3_LVGL\sdkconfig...
+Loading config from h:\project\2.8inch\ESP32\S3test\2.8inch_ESP32-S3_LVGL\sdkconfig...
+Saving config to h:\project\2.8inch\ESP32\S3test\2.8inch_ESP32-S3_LVGL\sdkconfig...
+Loading config from h:\project\2.8inch\ESP32\S3test\2.8inch_ESP32-S3_LVGL\sdkconfig...
+Saving config to h:\project\2.8inch\ESP32\S3test\2.8inch_ESP32-S3_LVGL\sdkconfig...
+Loading config from h:\project\2.8inch\ESP32\S3test\2.8inch_ESP32-S3_LVGL\sdkconfig...
+Saving config to h:\project\2.8inch\ESP32\S3test\2.8inch_ESP32-S3_LVGL\sdkconfig...
+Loading config from h:\project\2.8inch\ESP32\S3test\2.8inch_ESP32-S3_LVGL\sdkconfig...
+Saving config to h:\project\2.8inch\ESP32\S3test\2.8inch_ESP32-S3_LVGL\sdkconfig...
+Saving config to h:\project\2.8inch\ESP32\S3test\2.8inch_ESP32-S3_LVGL\sdkconfig...
+Saving config to h:\project\2.8inch\ESP32\S3test\2.8inch_ESP32-S3_LVGL\sdkconfig...
+Loading config from h:\project\2.8inch\ESP32\S3test\2.8inch_ESP32-S3_LVGL\sdkconfig...
+Saving config to h:\project\2.8inch\ESP32\S3test\2.8inch_ESP32-S3_LVGL\sdkconfig...
+Saving config to h:\project\2.8inch\ESP32\S3test\2.8inch_ESP32-S3_LVGL\sdkconfig...
+Loading config from h:\project\2.8inch\ESP32\S3test\2.8inch_ESP32-S3_LVGL\sdkconfig...
+Saving config to h:\project\2.8inch\ESP32\S3test\2.8inch_ESP32-S3_LVGL\sdkconfig...
+Loading config from h:\project\2.8inch\ESP32\S3test\2.8inch_ESP32-S3_LVGL\sdkconfig...

@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+H:/project/2.8inch/ESP32/S3test/2.8inch_ESP32-S3_LVGL/build/CMakeFiles/bootloader
+H:/project/2.8inch/ESP32/S3test/2.8inch_ESP32-S3_LVGL/build/CMakeFiles/bootloader.rule
+H:/project/2.8inch/ESP32/S3test/2.8inch_ESP32-S3_LVGL/build/CMakeFiles/bootloader-complete.rule
+H:/project/2.8inch/ESP32/S3test/2.8inch_ESP32-S3_LVGL/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+H:/project/2.8inch/ESP32/S3test/2.8inch_ESP32-S3_LVGL/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+H:/project/2.8inch/ESP32/S3test/2.8inch_ESP32-S3_LVGL/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+H:/project/2.8inch/ESP32/S3test/2.8inch_ESP32-S3_LVGL/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+H:/project/2.8inch/ESP32/S3test/2.8inch_ESP32-S3_LVGL/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+H:/project/2.8inch/ESP32/S3test/2.8inch_ESP32-S3_LVGL/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+H:/project/2.8inch/ESP32/S3test/2.8inch_ESP32-S3_LVGL/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

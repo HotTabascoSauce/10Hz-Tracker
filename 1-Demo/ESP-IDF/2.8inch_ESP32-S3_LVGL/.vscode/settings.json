@@ -1,0 +1,28 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.espIdfPathWin": "D:/ESP32/Espressif/frameworks/esp-idf-v5.4.1/",
+  "idf.pythonInstallPath": "D:\\ESP32\\Espressif\\tools\\idf-python\\3.11.2\\python.exe",
+  "idf.openOcdConfigs": [
+    "board/esp32s3-builtin.cfg"
+  ],
+  "idf.portWin": "COM24",
+  "idf.toolsPathWin": "D:\\ESP32\\Espressif",
+  "idf.customExtraVars": {
+    "IDF_TARGET": "esp32s3"
+  },
+  "clangd.path": "D:\\ESP32\\Espressif\\tools\\esp-clang\\esp-18.1.2_20240912\\esp-clang\\bin\\clangd.exe",
+  "clangd.arguments": [
+    "--background-index",
+    "--query-driver=D:\\ESP32\\Espressif\\tools\\xtensa-esp-elf\\esp-14.2.0_20241119\\xtensa-esp-elf\\bin\\xtensa-esp32s3-elf-gcc.exe",
+    "--compile-commands-dir=${workspaceFolder}\\build"
+  ],
+  "files.associations": {
+    "lv_port_indev.h": "c",
+    "lvgl.h": "c",
+    "lv_port_disp.h": "c",
+    "i2c.h": "c",
+    "esp_types.h": "c",
+    "i2c_types.h": "c",
+    "soc_caps.h": "c"
+  }
+}
